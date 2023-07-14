@@ -1,0 +1,15 @@
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\bin\Debug\net6.0\ListandStringsTest.exe
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\bin\Debug\net6.0\ListandStringsTest.deps.json
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\bin\Debug\net6.0\ListandStringsTest.runtimeconfig.json
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\bin\Debug\net6.0\ListandStringsTest.dll
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\bin\Debug\net6.0\ListandStringsTest.pdb
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.csproj.AssemblyReference.cache
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.AssemblyInfoInputs.cache
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.AssemblyInfo.cs
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.csproj.CoreCompileInputs.cache
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.dll
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\refint\ListandStringsTest.dll
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.pdb
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ListandStringsTest.genruntimeconfig.cache
+C:\Users\FP2301321\source\repos\ListandStringsTest\ListandStringsTest\obj\Debug\net6.0\ref\ListandStringsTest.dll
